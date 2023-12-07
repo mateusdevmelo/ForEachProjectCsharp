@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G7XuJtAFGL6Sm/0A/ofkG4LjNtUAxNOch6gzRp/Ny9NnE99pEh3Fs/0HKYO0FiZ0yIqhhx7qsoXQulbX0EidCw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mateu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mateu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mateu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

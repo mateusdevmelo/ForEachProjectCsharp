@@ -1,0 +1,14 @@
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.exe
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.dll
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.dll
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Projetos\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\ref\Starter.dll
